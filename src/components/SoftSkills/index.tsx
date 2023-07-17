@@ -33,7 +33,13 @@ export default function HardSkills() {
 					justifyContent={'center'}
 				>
 					<Link to={'/skillsPeterson'}>
-						<Button variant="outlined"> Peterson</Button>
+						<Button
+							sx={{ textDecoration: 'none' }}
+							variant="outlined"
+						>
+							{' '}
+							Peterson
+						</Button>
 					</Link>
 				</Grid>
 				<Grid
@@ -44,7 +50,13 @@ export default function HardSkills() {
 					justifyContent={'center'}
 				>
 					<Link to={'/skillsHenrique'}>
-						<Button variant="outlined"> Henrique</Button>
+						<Button
+							sx={{ textDecoration: 'none' }}
+							variant="outlined"
+						>
+							{' '}
+							Henrique
+						</Button>
 					</Link>
 				</Grid>
 				<Grid
@@ -55,7 +67,12 @@ export default function HardSkills() {
 					justifyContent={'center'}
 				>
 					<Link to={'/skillsGustavo'}>
-						<Button variant="outlined">Gustavo </Button>
+						<Button
+							sx={{ textDecoration: 'none' }}
+							variant="outlined"
+						>
+							Gustavo{' '}
+						</Button>
 					</Link>
 				</Grid>
 			</Grid>

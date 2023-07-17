@@ -1,9 +1,9 @@
 import {
-    Accordion,
-    AccordionDetails,
-    AccordionSummary,
-    Grid,
-    Typography,
+	Accordion,
+	AccordionDetails,
+	AccordionSummary,
+	Grid,
+	Typography,
 } from '@mui/material';
 import { Link } from 'react-router-dom';
 
@@ -27,38 +27,38 @@ export default function SoftSkillsPeterson() {
 				<Grid item xs={12}>
 					<Accordion>
 						<AccordionSummary>
-							<Typography>Proatividade</Typography>
+							<Typography>Criatividade</Typography>
 						</AccordionSummary>
 						<AccordionDetails>
 							<Typography>
-								Me coloco a disposição para ajudar no que for
-								necessário. Não consigo ficar parado, quero
-								sempre fazer algo e direciono isso para ajudar
-								onde precisa.
+								Consigo lidar com problemas de forma criativa e
+								também gosto de usar essa habilidade para evitar
+								o tédio.
 							</Typography>
 						</AccordionDetails>
 					</Accordion>
 					<Accordion>
 						<AccordionSummary>
-							<Typography>Planejamento</Typography>
+							<Typography>Motivação e Positividade</Typography>
 						</AccordionSummary>
 						<AccordionDetails>
 							<Typography>
-								Analiso todo o processo ou situação e planejo a
-								forma mais eficiente naquele momento e
-								circunstância para tirar o melhor proveito.
+								De alguma forma, sempre tento motivar as pessoas
+								que estão comigo e trazer positivade aonde
+								trabalho.
 							</Typography>
 						</AccordionDetails>
 					</Accordion>
 					<Accordion>
 						<AccordionSummary>
-							<Typography>Tranquilidade</Typography>
+							<Typography>Liderança e Gestão</Typography>
 						</AccordionSummary>
 						<AccordionDetails>
 							<Typography>
-								Calmo perante situações de pressão e tranquilo
-								para planejar os melhores métodos para alcançar
-								o objetivo.
+								Não gosto de me identificar como um líder
+								"supremo/todo poderoso" nem nada assim, mas
+								acredito que eu tenha uma certa habilidade de
+								liderança.
 							</Typography>
 						</AccordionDetails>
 					</Accordion>
