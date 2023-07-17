@@ -1,7 +1,7 @@
-import HardSkills from '../../components/HardSkills';
+import SoftSkills from '../../components/SoftSkills';
 
 const Skills = () => {
-	return <HardSkills />;
+	return <SoftSkills />;
 };
 
 export default Skills;

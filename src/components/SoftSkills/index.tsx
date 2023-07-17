@@ -2,7 +2,7 @@ import { Button, Grid } from '@mui/material';
 import Typography from '@mui/material/Typography';
 import { Link } from 'react-router-dom';
 
-export default function HardSkills() {
+export default function SoftSkills() {
 	return (
 		<>
 			<Grid container>
