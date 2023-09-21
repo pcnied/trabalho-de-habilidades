@@ -1,9 +1,9 @@
 import {
-    Accordion,
-    AccordionDetails,
-    AccordionSummary,
-    Grid,
-    Typography,
+	Accordion,
+	AccordionDetails,
+	AccordionSummary,
+	Grid,
+	Typography,
 } from '@mui/material';
 import { Link } from 'react-router-dom';
 
